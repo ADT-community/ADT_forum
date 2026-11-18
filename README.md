@@ -3,4 +3,4 @@
 Open source projects solving African problems, built by developers across the continent, who get paid through bounties and goals.
 
 **Website:** https://adt-community.github.io
-**Discussions:** https://github.com/ADT-community/ADT_forum/discussions
+**Propose a project:** https://adt-community.github.io/propose.html
