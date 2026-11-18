@@ -28,7 +28,7 @@ Browse the project repos in [ADT-community](https://github.com/ADT-community) an
 Start a discussion in the **Proposals** category. The form asks for everything needed. A proposal moves forward when it has:
 
 - a clear African problem it solves
-- a realistic way to earn money or grants
+- a realistic path to profit: who pays, how much, and roughly when
 - at least one committed maintainer and 3 interested contributors
 
 ## Getting your payout set up

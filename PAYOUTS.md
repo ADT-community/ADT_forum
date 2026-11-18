@@ -11,7 +11,7 @@
 
 ## Revenue split (proposed)
 
-For each project, money it earns (revenue, grants, prizes) is split:
+ADT projects are for-profit. For each project, money it earns (revenue, plus any grants or prizes) is split:
 
 | Share | Goes to |
 |------:|---------|
@@ -46,7 +46,11 @@ Maintainers set the exact size of each task **before** work starts, using issue 
 
 ## Open questions
 
-- **Legal entity:** who holds the money and signs contracts? Options include a for-profit company, a cooperative, or a fiscal host such as Open Collective. If the Africa Deep Tech Foundation is a nonprofit, the profit side may need its own entity. Get legal advice before taking revenue.
+- **Legal structure (for-profit):** who holds the money and signs contracts? Two main options:
+  - **One holding company** (e.g. "ADT Ventures") that owns all projects and runs payouts. Simple to start.
+  - **One company per project** once it reaches the Company stage, with ADT and contributors holding shares. Better for raising investment.
+  A common path is to start with the holding company and spin projects out later. If the Africa Deep Tech Foundation is a nonprofit, the for-profit company must be a separate entity. Get legal advice before taking revenue.
+- **Equity for contributors:** whether contribution points can also convert into shares when a project becomes its own company.
 - **Payment rails:** Flutterwave, Paystack, M-Pesa, Wise, and others. Coverage and fees vary by country.
 - **Taxes and contracts:** contributors may need a simple contributor agreement.
-- **Before revenue:** how to reward early contributors before a project earns anything, for example points that carry forward or a share of grants.
+- **Before revenue:** points earned before a project makes money carry forward and are paid out of its first revenue, so early builders are rewarded for the risk they took. A multiplier for early points (for example 1.5×) is under discussion.

@@ -22,8 +22,8 @@ body:
   - type: textarea
     id: revenue
     attributes:
-      label: How it earns money
-      description: Revenue, grants, partnerships. How can it pay contributors?
+      label: Path to profit
+      description: Who pays, how much, and roughly when could it become profitable? (Grants can help early on but are not a business model.)
     validations:
       required: true
   - type: textarea
