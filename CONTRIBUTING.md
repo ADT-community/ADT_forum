@@ -4,7 +4,7 @@ Thanks for wanting to build with ADT. Here is how to get started.
 
 ## 1. Pick a project
 
-Browse the project repos in [ADT-community](https://github.com/ADT-community) and [projects/IDEAS.md](projects/IDEAS.md). Join the matching Discord channel.
+Browse the project repos in [ADT-community](https://github.com/ADT-community) and [projects/IDEAS.md](projects/IDEAS.md). Follow its category in [Discussions](https://github.com/orgs/ADT-community/discussions) to keep up with plans and questions.
 
 ## 2. Find a task
 
@@ -25,7 +25,7 @@ Browse the project repos in [ADT-community](https://github.com/ADT-community) an
 
 ## Proposing a new project
 
-Open an issue in this repo with the **Project proposal** template. A proposal moves forward when it has:
+Start a discussion in the **Proposals** category. The form asks for everything needed. A proposal moves forward when it has:
 
 - a clear African problem it solves
 - a realistic way to earn money or grants
@@ -33,7 +33,7 @@ Open an issue in this repo with the **Project proposal** template. A proposal mo
 
 ## Getting your payout set up
 
-Payout details are collected privately by maintainers, **never** in public issues or Discord channels.
+Payout details are collected privately by maintainers, **never** in public issues or discussions.
 
 ## Conduct
 

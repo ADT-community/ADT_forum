@@ -1,6 +1,6 @@
 # Project Ideas
 
-A starting list. Propose new ideas with the **Project proposal** issue template.
+A starting list. Propose new ideas in the **Proposals** category of [Discussions](https://github.com/orgs/ADT-community/discussions).
 
 | Project | Problem | How it could earn | Difficulty |
 |---|---|---|---|

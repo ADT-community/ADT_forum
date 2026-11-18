@@ -1,0 +1,45 @@
+title: "[Proposal] "
+labels: ["proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose a new open source project for the ADT community. Proposals move forward once they have a committed maintainer and at least 3 interested contributors.
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What African problem does this solve, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: The solution
+      description: What will we build? Software, hardware, or both?
+    validations:
+      required: true
+  - type: textarea
+    id: revenue
+    attributes:
+      label: How it earns money
+      description: Revenue, grants, partnerships. How can it pay contributors?
+    validations:
+      required: true
+  - type: textarea
+    id: mvp
+    attributes:
+      label: First version (MVP)
+      description: What is the smallest useful thing we could ship in about 3 months?
+    validations:
+      required: true
+  - type: input
+    id: skills
+    attributes:
+      label: Skills needed
+      placeholder: e.g. backend, mobile, ML, embedded, design
+  - type: input
+    id: maintainer
+    attributes:
+      label: Maintainer
+      description: Who will lead it? (GitHub username)

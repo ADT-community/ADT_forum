@@ -18,4 +18,4 @@ ADT brings together people from many countries, languages and backgrounds. We wa
 
 ## Enforcement
 
-Report problems to a project maintainer or ADT moderator privately on Discord. Moderators may warn, remove content, remove points earned in bad faith, or ban people from the community.
+Report problems to a project maintainer or ADT moderator privately by email, or use GitHub's "Report content" option on any comment. Moderators may warn, remove content, remove points earned in bad faith, or ban people from the community.
