@@ -1,6 +1,6 @@
 # Contributing
 
-The full overview is on the website: https://adt-community.github.io/ADT_forum/
+The full overview is on the website: https://adt-community.github.io
 
 ## Quick version
 
