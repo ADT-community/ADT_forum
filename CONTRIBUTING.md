@@ -1,40 +1,20 @@
 # Contributing
 
-Thanks for wanting to build with ADT. Here is how to get started.
+The full overview is on the website: https://adt-community.github.io/ADT_forum/
 
-## 1. Pick a project
+## Quick version
 
-Browse the project repos in [ADT-community](https://github.com/ADT-community) and [projects/IDEAS.md](projects/IDEAS.md). Follow its category in [Discussions](https://github.com/orgs/ADT-community/discussions) to keep up with plans and questions.
+1. Pick a project repo in [ADT-community](https://github.com/ADT-community).
+2. Find an issue with a `bounty:$…` label and comment to claim it.
+3. Fork, branch, and open a pull request that links the issue.
+4. Once a maintainer merges it, the bounty is paid.
 
-## 2. Find a task
+**Goals** are bigger milestones (e.g. launch the MVP, first paying customer). The team and each member's share are agreed in the project's discussion before work starts, and the reward is paid when the goal is reached.
 
-- Look for issues labelled `good first issue` or `help wanted`.
-- Comment on the issue to claim it, so two people don't do the same work.
-- Check the `points:` label so you know how the task is valued (see [PAYOUTS.md](PAYOUTS.md)).
+## Payments
 
-## 3. Do the work
+Payouts go by mobile money or bank transfer. Share payment details privately with a maintainer, **never** in public issues or discussions.
 
-- Fork the repo and create a branch.
-- Keep pull requests small and focused, and link the issue they close.
-- Follow each project's own README for setup and coding style.
+## Proposing a project
 
-## 4. Get it merged
-
-- A maintainer reviews your pull request. Respond to feedback.
-- Once merged, your points are counted in that month's payout table.
-
-## Proposing a new project
-
-Start a discussion in the **Proposals** category. The form asks for everything needed. A proposal moves forward when it has:
-
-- a clear African problem it solves
-- a realistic path to profit: who pays, how much, and roughly when
-- at least one committed maintainer and 3 interested contributors
-
-## Getting your payout set up
-
-Payout details are collected privately by maintainers, **never** in public issues or discussions.
-
-## Conduct
-
-Everyone must follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+Post in the [Proposals](https://github.com/ADT-community/ADT_forum/discussions/new?category=proposals) category. A proposal moves forward once it has a clear path to profit, a maintainer and at least 3 contributors.
